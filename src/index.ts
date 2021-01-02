@@ -19,7 +19,8 @@ export type EuCountryCode = Iso3166_1_Code & (
 export const EuCountryCodes: readonly EuCountryCode[] = [
   'IE', 'IT', 'EE' , 'AT',
   'NL' , 'CY' , 'GR' , 'HR',
-  'SE' , 'ES' , 'SK' , 'SI',
+  'SE' , 'AX',
+  'ES' , 'SK' , 'SI',
   'CZ' , 'DK' , 'DE' , 'HU',
   'FI' , 'FR' , 'BG' , 'BE',
   'PL' , 'PT' , 'MT' , 'LV',
